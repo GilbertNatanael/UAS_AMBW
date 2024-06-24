@@ -1,2 +1,4 @@
 # UAS_AMBW
-Gilbert Natanael WIdodo - C14210199
+Gilbert Natanael Widodo - C14210199
+
+Demo dijalankan di HP sendiri, tidak menggunakan virtual device.
